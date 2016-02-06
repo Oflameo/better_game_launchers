@@ -3,7 +3,7 @@
 # Get the architecture
 arch=$(uname -m)
 # Get installation directory
-dir=$(dirname $0)
+dir=/opt/joyful
 
 # Set the libpath and pick the proper binary
 if [ "$arch" == "x86_64" ]; then

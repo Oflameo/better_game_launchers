@@ -1,6 +1,6 @@
 #!/bin/sh
 # Get installation directory
-dir=/opt/undertale
+dir=/opt/iwbtg
 
 # Run the binary with wine
-wine $dir/UNDERTALE.exe
+wine $dir/iwbtgbeta_slomo.exe
